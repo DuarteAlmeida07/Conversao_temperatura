@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor de Temperaturas</string>
+    <string name="hint_temperature">Introduza a temperatura</string>
+    <string name="btn_c_to_f">Celsius → Fahrenheit</string>
+    <string name="btn_c_to_k">Celsius → Kelvin</string>
+    <string name="btn_f_to_c">Fahrenheit → Celsius</string>
+    <string name="result_prefix">Resultado: </string>
+    <string name="error_invalid_input">Por favor, introduza um valor válido.</string>
+</resources>
